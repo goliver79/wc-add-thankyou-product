@@ -22,6 +22,6 @@
 			}
 		}
 
-		$lgpd_vat_message = new GoAddThankYouProduct();
-		$lgpd_vat_message->activate();
+		$go_thankyou_product = new GoAddThankYouProduct();
+		$go_thankyou_product->activate();
 	}
